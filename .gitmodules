@@ -1,0 +1,3 @@
+[submodule "pixel/vendor/spdlog"]
+	path = pixel/vendor/spdlog
+	url = https://github.com/gabime/spdlog
