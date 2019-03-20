@@ -77,7 +77,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Pixel\Pixel\Pixel.vcxproj">
+    <ProjectReference Include="..\Pixel\Pixel.vcxproj">
       <Project>{599c64a7-43d1-4b0c-8360-7bf6dc444a30}</Project>
     </ProjectReference>
   </ItemGroup>
