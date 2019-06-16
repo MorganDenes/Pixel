@@ -9,3 +9,6 @@
 #else
 	#error Pixel Only Supports Windows!
 #endif // PXL_PLATFORM_WINDOWS
+
+
+#define BIT(x) (1 << x)

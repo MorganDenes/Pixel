@@ -1,6 +1,8 @@
 #pragma once
 #include "Core.h"
 
+#include "Pixel/Event/Event.h"
+
 
 namespace Pxl {
 
