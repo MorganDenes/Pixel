@@ -19,6 +19,9 @@ project "Pixel"
 	targetdir ("bin/" .. outputdir .. "/%{prj.name}")
 	objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
+	pchheader "pxlpch.h"
+	pchsource "Pixel/src/pxlpch.cpp"
+
 	files
 	{
 		"%{prj.name}/src/**.h",

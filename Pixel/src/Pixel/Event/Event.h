@@ -2,8 +2,6 @@
 
 #include "Pixel/Core.h"
 
-#include <string>
-#include <functional>
 
 namespace Pxl {
 

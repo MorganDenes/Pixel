@@ -1,7 +1,9 @@
+#include "pxlpch.h"
 #include "Application.h"
 
 #include "Pixel/Event/ApplicationEvent.h"
 #include "Pixel/Log.h"
+
 
 namespace Pxl {
 
